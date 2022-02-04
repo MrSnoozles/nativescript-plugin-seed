@@ -1,3 +1,8 @@
+# [OUTDATED]
+
+This is no longer the recommended way to start your plugin development. The new recommendation is to [use the all new plugin-seed](https://github.com/NativeScript/plugin-seed) workspace instead.
+
+
 # Develop a NativeScript plugin [![Build Status](https://travis-ci.org/NativeScript/nativescript-plugin-seed.svg?branch=master)](https://travis-ci.org/NativeScript/nativescript-plugin-seed)
 
 > This repo is heavily based on [@NathanWalker](https://github.com/NathanWalker)'s [Plugin Seed](https://github.com/NathanWalker/nativescript-plugin-seed). Thanks, Nathan!
